@@ -1,0 +1,7 @@
+a = input()
+b = input()
+sep = input()
+print(a, b)
+print(a, b, end="")
+print(a,b,sep=sep)
+print(a, b, sep="")
